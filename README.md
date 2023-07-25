@@ -7,8 +7,9 @@ his project is a Twitter clone web application called "VKE" that aims to replica
 ## Installation
 To run the VKE on your local machine, follow these steps:
 1.
-```git clone https://github.com/vkeapp/old-website.git
-cd old website
+```
+git clone https://github.com/vkeapp/old-website.git
+cd old-website
 ```
 2. Create a new MySQL database and import the provided SQL dump file `database.sql`.
 3. Update the database connection details in the files and other relevant files with your MySQL database credentials.
