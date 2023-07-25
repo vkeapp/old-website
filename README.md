@@ -6,6 +6,7 @@ his project is a Twitter clone web application called "VKE" that aims to replica
 
 ## Installation
 To run the VKE on your local machine, follow these steps:
+
 1.
 ```
 git clone https://github.com/vkeapp/old-website.git
