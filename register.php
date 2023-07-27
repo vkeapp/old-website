@@ -136,7 +136,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <input type="email" class="form-control" name="register_email" placeholder="Email" required>
               </div>
               <div class="form-group">
-                <div class="g-recaptcha" data-sitekey="6LeK1PImAAAAAKjUdPVQS7MCaFTLiHcawwnu8EVY"></div>
+                <div class="g-recaptcha" data-sitekey=""></div>
               </div>
               <p>By registering an account and using VKE's service you agree to our <a href="https://legal.vke.app/tos">Terms of Service</a> and <a href="https://legal.vke.app/privacy">Privacy Policy</a></p>
               <button type="submit" class="btn btn-primary">Register</button>
